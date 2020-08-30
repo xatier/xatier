@@ -1,10 +1,10 @@
 # Hi there, I'm xatier  👋
 
-- :earth_asia: I'm from Taiwan, a beautiful contry.
-- :computer: I code in C / Python / Bash / a little Go.
-- :innocent: I suck at coding interviews.
-- :wink: Pronouns: they/them
-- :point_right: [btw, I use Arch](https://www.quora.com/What-is-meant-by-btw-I-use-arch) [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux"/>](https://archlinux.org/) for 10+ years.
+- :earth_asia: I'm from Taiwan, a beautiful contry. (≧∇≦)
+- :computer: I code in C / Python / Bash / a little Go. <(￣︶￣)>
+- :innocent: I suck at coding interviews. (´Д｀;)
+- :wink: Pronouns: they/them ╮(￣▽￣)╭
+- :point_right: [btw, I use Arch](https://www.quora.com/What-is-meant-by-btw-I-use-arch) [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux"/>](https://archlinux.org/) for 10+ years. ┏(·ω·)┛
 
 ## I know a little about
 
