@@ -1,6 +1,6 @@
 # Hi there, I'm xatier  👋
 
-- :earth_asia: I'm from Taiwan, a beautiful contry. (≧∇≦)
+- :earth_asia: I'm from Taiwan, a beautiful country. (≧∇≦)
 - :computer: I code in C / Python / Bash / a little Go. <(￣︶￣)>
 - :innocent: I suck at coding interviews. (´Д｀;)
 - :wink: Pronouns: they/them ╮(￣▽￣)╭
