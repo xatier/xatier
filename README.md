@@ -17,17 +17,36 @@
 
 ## I use
 
-- [Archlinux](https://archlinux.org/)
+- [Archlinux](https://archlinux.org)
 - [Awesome WM](https://github.com/awesomeWM/awesome)
 - [tmux](https://github.com/tmux/tmux)
 - [vim](https://github.com/vim/vim)
 - [ranger](https://github.com/ranger/ranger)
-- [Filco keyboards](https://www.diatec.co.jp/en/)
+- [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html)
 - [my rc files](https://github.com/xatier/rc-files)
+- [my dockerfiles collections](https://github.com/xatier/dockerfiles)
+- my browser extensions
+  -  [tab-manager](https://github.com/xatier/tab-manager)
+  -  [tootthat](https://github.com/xatier/tootthat)
+  -  [twitthat](https://github.com/xatier/twitthat-chrome-extension)
+  -  [tauphahji-lookup](https://github.com/xatier/tauphahji-lookup)
+  -  [lexico-lookup](https://github.com/xatier/lexico-lookup)
+  -  [tracking-remover](https://github.com/xatier/tracking-remover)
+  -  [youtube-no-translate](https://github.com/xatier/youtube-no-translate)
+- [pawoo-rt](https://github.com/xatier/pawoo-rt)
+- [toy-socks5](https://github.com/xatier/toy-socks5)
+- [podman](https://github.com/containers/podman)
+- [Zettlr](https://github.com/Zettlr/Zettlr)
+- [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+- [McBopomofo for fcitx5](https://github.com/openvanilla/fcitx5-mcbopomofo)
+- [whoogle-search](https://github.com/benbusby/whoogle-search) w/ [whoogle-azure](https://github.com/xatier/whoogle-azure)
+- [libreddit](https://github.com/spikecodes/libreddit) w/ [libreddit-azure](https://github.com/xatier/libreddit-azure)
+- [Filco keyboards](https://www.diatec.co.jp/en/)
+- [Kensington SlimBlade Trackball](https://www.kensington.com/)
 
 ## I speak
 
-- Taiwanese Hokkien: native speaker, fluent
+- Taiwanese: native speaker, fluent
 - Chinese: fluent
 - English: fluent
 - Japanese: intermediate level
