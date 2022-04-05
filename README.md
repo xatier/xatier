@@ -33,6 +33,7 @@
   -  [lexico-lookup](https://github.com/xatier/lexico-lookup)
   -  [tracking-remover](https://github.com/xatier/tracking-remover)
   -  [youtube-no-translate](https://github.com/xatier/youtube-no-translate)
+- [einstein](https://github.com/ChildishGhost/einstein)
 - [pawoo-rt](https://github.com/xatier/pawoo-rt)
 - [toy-socks5](https://github.com/xatier/toy-socks5)
 - [podman](https://github.com/containers/podman)
