@@ -1,10 +1,10 @@
 # Hi there, I'm xatier  👋
 
-- :earth_asia: I'm from Taiwan, a beautiful country. (≧∇≦)
-- :computer: I code in C / Python / Bash / some Go. <(￣︶￣)>
-- :innocent: I suck at coding interviews. (´Д｀;)
+- :earth_asia: I'm from Taiwan, a beautiful country (≧∇≦)
+- :computer: I code in C / Python / Bash / some Go <(￣︶￣)>
+- :innocent: I suck at coding interviews (´Д｀;)
 - :wink: Pronouns: they/them ╮(￣▽￣)╭
-- :point_right: [btw, I use Arch](https://www.quora.com/What-is-meant-by-btw-I-use-arch) [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux"/>](https://archlinux.org/) for 10+ years. ┏(·ω·)┛
+- :point_right: [btw, I use Arch](https://www.quora.com/What-is-meant-by-btw-I-use-arch) [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux"/>](https://archlinux.org/) for 10+ years ┏(·ω·)┛
 
 ## I know a little about
 
@@ -26,12 +26,13 @@
 - [my rc files](https://github.com/xatier/rc-files)
 - [my dockerfiles collections](https://github.com/xatier/dockerfiles)
 - my browser extensions
-  -  [tab-manager](https://github.com/xatier/tab-manager)
-  -  [tootthat](https://github.com/xatier/tootthat)
-  -  [twitthat](https://github.com/xatier/twitthat-chrome-extension)
-  -  [tauphahji-lookup](https://github.com/xatier/tauphahji-lookup)
+  -  [alt-fe](https://github.com/xatier/alt-fe)
   -  [lexico-lookup](https://github.com/xatier/lexico-lookup)
+  -  [tab-manager](https://github.com/xatier/tab-manager)
+  -  [tauphahji-lookup](https://github.com/xatier/tauphahji-lookup)
+  -  [tootthat](https://github.com/xatier/tootthat)
   -  [tracking-remover](https://github.com/xatier/tracking-remover)
+  -  [twitthat](https://github.com/xatier/twitthat-chrome-extension)
   -  [youtube-no-translate](https://github.com/xatier/youtube-no-translate)
 - [einstein](https://github.com/ChildishGhost/einstein)
 - [pawoo-rt](https://github.com/xatier/pawoo-rt)
@@ -42,8 +43,10 @@
 - [McBopomofo for fcitx5](https://github.com/openvanilla/fcitx5-mcbopomofo)
 - [whoogle-search](https://github.com/benbusby/whoogle-search) w/ [whoogle-azure](https://github.com/xatier/whoogle-azure)
 - [libreddit](https://github.com/spikecodes/libreddit) w/ [libreddit-azure](https://github.com/xatier/libreddit-azure)
+- [invidious](https://github.com/iv-org/invidious)
 - [Filco keyboards](https://www.diatec.co.jp/en/)
 - [Kensington SlimBlade Trackball](https://www.kensington.com/)
+- [Logitech Lift Vertical Ergonomic Mouse](https://www.logitech.com/)
 
 ## I speak
 
@@ -51,7 +54,7 @@
 - Chinese: fluent
 - English: fluent
 - Japanese: intermediate level
-  
+
 
 ![img](https://github-readme-stats.vercel.app/api?username=xatier&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
