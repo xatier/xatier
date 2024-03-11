@@ -42,7 +42,7 @@
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - [McBopomofo for fcitx5](https://github.com/openvanilla/fcitx5-mcbopomofo)
 - [whoogle-search](https://github.com/benbusby/whoogle-search) w/ [whoogle-azure](https://github.com/xatier/whoogle-azure)
-- [libreddit](https://github.com/spikecodes/libreddit) w/ [libreddit-azure](https://github.com/xatier/libreddit-azure)
+- [redlib](https://github.com/redlib-org/redlib) w/ [libreddit-azure](https://github.com/xatier/libreddit-azure)
 - [invidious](https://github.com/iv-org/invidious)
 - [Filco keyboards](https://www.diatec.co.jp/en/)
 - [Kensington SlimBlade Trackball](https://www.kensington.com/)
