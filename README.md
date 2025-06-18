@@ -27,6 +27,7 @@
 - [my dockerfiles collections](https://github.com/xatier/dockerfiles)
 - my browser extensions
   -  [alt-fe](https://github.com/xatier/alt-fe)
+  -  [auto-switch](https://github.com/xatier/auto-switch)
   -  [lexico-lookup](https://github.com/xatier/lexico-lookup)
   -  [tab-manager](https://github.com/xatier/tab-manager)
   -  [tauphahji-lookup](https://github.com/xatier/tauphahji-lookup)
